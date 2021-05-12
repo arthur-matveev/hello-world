@@ -1,6 +1,4 @@
 # hello-world
-Etst of IgtHub
+Test of GitHub
 
-Here is a dummy readme file to make a first test of Commit on GitHub
-
-Here is a second dummy commit
+Now clean version of the readme file!
